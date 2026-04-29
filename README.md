@@ -7,34 +7,22 @@
 ## 💻 Skills & Technologies
 
 ### 👨‍💻 Languages
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
 
 ### 🌐 Web
-HTML
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-
-CSS
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
 
 ### 🛠️ Tools
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" title="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 
 ## 🚀 What I Do
 * 💡 Full Stack
