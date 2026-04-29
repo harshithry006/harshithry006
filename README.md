@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Harshith
 
-<!--
-**harshithry006/harshithry006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a student in the **Computer Systems Technology (CST)** program at BCIT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Technologies
+### 👨‍💻 Programming Languages
+* Java
+* Python
+* JavaScript
+* SQL
+* C
+* HTML & CSS
+  
+### 🛠️ Tools & Technologies
+* MySQL
+* SQL Server
+* Angular
+* Vue.js
+* Git
+---
+
+## 🚀 What I Do
+* 💡 Full Stack
+---
+
+## 📂 Projects
+🚧 Projects are currently in progress — more coming soon!
+---
+
+## 🌱 Currently Learning
+* Improving backend development using Node.js
+* Building real-world full stack applications
+---
+
+## 📫 Connect With Me
+* LinkedIn: www.linkedin.com/in/harshithreddyganta
+---
+
