@@ -32,9 +32,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 </p>
 
-## 🚀 What I Do
-* 💡 Full Stack
----
 
 ## 📂 Projects
 🚧 Projects are currently in progress — more coming soon!
