@@ -2,7 +2,6 @@
 
 <p>
   🎓 I’m currently a student in the <b>Computer Systems Technology (CST)</b> program at BCIT 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/British_Columbia_Institute_of_Technology_logo.svg" width="35" style="vertical-align:middle;" title="BCIT"/>
 </p>
 
 ---
@@ -48,10 +47,8 @@
 
 ## 📫 Connect With Me
 * Linkedin
-<p align="center">
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/harshithreddyganta" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-</p>
 ---
 
